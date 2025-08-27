@@ -1,0 +1,12 @@
+{
+  "server": {
+    "version": "1.0",
+    "release_notes": "Versao inicial do servidor Zaviia.",
+    "download_url": "URL_DO_SEU_SETUP_SERVIDOR_V1.0_AQUI"
+  },
+  "client": {
+    "version": "1.0",
+    "release_notes": "Versao inicial do cliente Zaviia.",
+    "download_url": "URL_DO_SEU_SETUP_CLIENTE_V1.0_AQUI"
+  }
+}
